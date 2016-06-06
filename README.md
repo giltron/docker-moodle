@@ -1,7 +1,8 @@
 docker-moodle
 =============
 
-A Dockerfile that installs the latest Moodle, Apache, PHP, MySQL and SSH
+A Dockerfile that installs the Moodle 3.1 stable, Apache, PHP, MySQL and SSH
+
 
 ## Installation
 
@@ -24,5 +25,6 @@ You can visit the following URL in a browser to get started:
 ```
 http://moodle.domain.com/moodle
 ```
+Forked from [sergiogomez](https://github.com/sergiogomez/docker-moodle). Thanks.
 
 Thanks to [eugeneware](https://github.com/eugeneware) and [ricardoamaro](https://github.com/ricardoamaro) for their Dockerfiles.
